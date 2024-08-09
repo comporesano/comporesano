@@ -59,7 +59,7 @@ Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solvi
 ![VsCODE](https://img.shields.io/badge/Visual_Studio_Code-2e2e2e?style=for-the-badge&logo=visual&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-2e2e2e?style=for-the-badge&logo=pycharm&logoColor=green)
 
-### Operating systems
+### ✩ Operating systems
 ![Linux](https://img.shields.io/badge/Linux-2e2e2e?style=for-the-badge&logo=KDE&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-2e2e2e?style=for-the-badge&logo=&logoColor=green)
 
