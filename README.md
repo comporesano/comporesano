@@ -1,4 +1,4 @@
-[![Header](https://github.com/comporesano/comporesano/blob/main/assets/gifgit.gif)(https://github.com/comporesano)]()
+[![Header](https://github.com/comporesano/comporesano/blob/main/assets/header.gif)](https://github.com/comporesano)
 
 About me
 
