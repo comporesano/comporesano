@@ -29,6 +29,7 @@ Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solvi
 ![Alembic](https://img.shields.io/badge/alembic-2e2e2e?style=for-the-badge&logo=vercel&logoColor=light-gray)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2e2e2e?style=for-the-badge&logo=SQLAlchemy&logoColor=red)
 ![TortoiseORM](https://img.shields.io/badge/Tortoise_ORM-2e2e2e?style=for-the-badge&logo=&logoColor=red)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-2e2e2e?style=for-the-badge&logo=RabbitMQ&logoColor=red)
 
 ### ✩ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2e2e2e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -78,4 +79,4 @@ Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solvi
 
 # Contact with me
 [![VK](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/comporesano)
-[![Telegram](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=telegram&logoColor=pink)](https://t.me/comporesano)
+[![Telegram](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=telegram&logoColor=plum)](https://t.me/comporesano)
