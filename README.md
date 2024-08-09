@@ -1,6 +1,6 @@
 [![Header](https://github.com/comporesano/comporesano/blob/main/assets/header.gif)](https://github.com/comporesano)
 
-## I am Python backend developer and DevOps engineer
+## BIO
 Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solving programming problems and learning new programming languages. My github profile contains information about my technology stack and work experience. 
 ## Languages and tools
 ### ✩ BASE programming languages
@@ -75,4 +75,7 @@ Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solvi
 ### ✩ 2022.11 - 2023.11 - KiberONE, Python senior lecturer
 ### ✩ 2023.11 - 2024.05 - GC Astra(Astra Linux), Python-developer
 ### ✩ 2024.05 - 2024.08 - SOREX Group, Python-developer
-Follow me
+
+# Contact with me
+[![VK](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/comporesano)
+[![Telegram](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=telegram&logoColor=pink)](https://t.me/comporesano)
