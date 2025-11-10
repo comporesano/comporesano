@@ -70,12 +70,15 @@ Hi there! My name is **Roman** i'm ***Python Backend Developer***. I enjoy solvi
 
 ### ✩ 2019 - 2021 - Physics and Mathematics Lyceum No. 1580 at Bauman MSTU
 ### ✩ 2021 - 2025 - RTU MIREA(MTU), Institute of inforamtion technologies, Engineer-Programmer, Bachelor's degrees
+### ✩ 2025 - 2027 - Moscow Technology Institute, Institute of inforamtion technologies, Engineer-Programmer, Master's degrees
 
 ## Work experience
 
 ### ✩ 2022.11 - 2023.11 - KiberONE, Python senior lecturer
 ### ✩ 2023.11 - 2024.05 - GC Astra(Astra Linux), Python-developer
 ### ✩ 2024.05 - 2024.08 - SOREX Group, Python-developer
+### ✩ 2024.08 - 2024.12 - RTU MIREA, Backend python-developer
+### ✩ 2024.12 - present - JSC NSPK(MIR pay), Fullstack-developer(Python+REACT.js)
 
 # Contact with me
 [![VK](https://img.shields.io/badge/ComporeSano-2e2e2e?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/comporesano)
